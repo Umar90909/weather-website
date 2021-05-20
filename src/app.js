@@ -8,6 +8,8 @@ const forecast = require('./utilss/forecast')
 const app = express()
 
 //testing git by changing
+
+
 //Define paths for Express config
 const publicFolderPath = path.join(__dirname, '../public')
 const viewPath = path.join(__dirname, '../templates/views')
